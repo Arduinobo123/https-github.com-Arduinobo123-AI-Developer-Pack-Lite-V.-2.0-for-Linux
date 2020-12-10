@@ -1,0 +1,87 @@
+===========================================================================================================================================================================
+                            _______                                                                __
+                          /      __       \______  __              __ _______    /   /_______     ________    _______     _________
+                        /     /    /       /    ___    \   \           /   /     ___    \/   /    ____      \/     ___      \/       ___   \/      ______/
+                      /     /    /       /    ______/    \       /   /       _____/   /   /         /    /     /      /     /      ______/      /
+                    /     /__/       /                 / \     \_ /   /                  /   /   /____/    /     /___/     /                   /      /  
+                  /_________/\_______/     \_____/ \_______/ _/\________/    _______/\________/\__/
+                                                                                                                           /    /
+                                                                                                                         /__/                   
+
+
+                                 ___
+                               /     /                                __
+                             /     /                                /__/
+                           /     /                                 __      __                 __                       ___  
+                         /     /                                 /   /   /    /_______|    \                   /     /   \    /
+                       /     /                                 /   /   /     _______     \    \               /     /       \/
+                     /     /_____________    /    /   /    /                \     \    \_____/     /         /\
+                   /________________/  /__/   /__/                  /__/\_________/         /     \
+===========================================================================================================================================================================
+Hello there developer!
+
+Well, glad to see you in the lite version of the AI Arduino. 
+
+*Specifications of lite version*
+
+                                                    Lite version                                                                                      Stable version
+
+
+1.  Face recognition -                    ❌                                                                                                         ✔
+
+
+2.  Games -                                     ✔                                                                                                         ✔
+ 
+
+3.  Smooth -                                    ✔                                                                                                         ✔
+
+
+4.  GUI -                                           ✔                                                                                                          ✔
+
+
+5. Topics -                       More than stable version                                                                 Less than Lite version
+                               (but import and main topics are same)                                                        
+
+6. Music playlist -                         ✔                                                                                                           ❌
+                                (It's a very cool playlist. Must try!)                                     (You can enjoy it from the internet on -->)
+                                                                                                  https://music.youtube.com/playlist?list=PL8qJFT6AWCtLHzAbUax9HLxrhkWXpQGOa
+
+7. OS supported -  Windows  /  Linux (Linux comming soon)                                                Windows Only
+                                 (I am working on linux right now)
+       
+8. Python required -                   ✔                                                                                                           ✔
+
+9. Nueral network -     Deep Nueral network.                                                                           Neural network
+
+10. Internet -                                ✔                                                                                                           ✔
+
+
+
+After this differentiate you can decide which version of the AI you should choose.
+
+
+
+*Conclusion*
+
+Well, if you are a linux user or want AI to consume less space you can go with the lite version whereas if you have more space 
+in your computer, you can go with stable version.
+
+*My recommendations*
+
+Go with 'Lite version'
+
+*What can you do?*
+
+Well, anything you want as it is open source, just don't sell it as your own poject . (A humble request) please.
+==============================================================================================================
+Thanks, user.
+I will keep on bringing new updates.
+
+Developer over and out!
+==============================================================================================================
+
+For any queries please contact on my Gmail ID .
+
+arduinoboy.vbps@gmail.com
+
+==============================================================================================================
